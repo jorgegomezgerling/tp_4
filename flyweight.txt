@@ -1,0 +1,12 @@
+Puede ser un sistema de gestión de inventario para una tienda en línea 
+que vende productos de diferentes marcas y modelos de lanchas. 
+Cada lancha tiene atributos comunes como marca, modelo y color. 
+El patrón Flyweight se aplicaría aquí para gestionar eficientemente 
+estos atributos compartidos entre múltiples instancias de lanchas, 
+reduciendo así la carga de memoria y optimizando el rendimiento del sistema.
+
+
+
+
+
+
